@@ -1,0 +1,14 @@
+C:\Users\Ethan Diaz\source\repos\App250521\App250521\App250521\bin\Debug\netstandard2.0\App250521.deps.json
+C:\Users\Ethan Diaz\source\repos\App250521\App250521\App250521\bin\Debug\netstandard2.0\App250521.dll
+C:\Users\Ethan Diaz\source\repos\App250521\App250521\App250521\bin\Debug\netstandard2.0\ref\App250521.dll
+C:\Users\Ethan Diaz\source\repos\App250521\App250521\App250521\bin\Debug\netstandard2.0\App250521.pdb
+C:\Users\Ethan Diaz\source\repos\App250521\App250521\App250521\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Ethan Diaz\source\repos\App250521\App250521\App250521\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Ethan Diaz\source\repos\App250521\App250521\App250521\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\Users\Ethan Diaz\source\repos\App250521\App250521\App250521\obj\Debug\netstandard2.0\App250521.AssemblyInfoInputs.cache
+C:\Users\Ethan Diaz\source\repos\App250521\App250521\App250521\obj\Debug\netstandard2.0\App250521.AssemblyInfo.cs
+C:\Users\Ethan Diaz\source\repos\App250521\App250521\App250521\obj\Debug\netstandard2.0\App250521.csproj.CoreCompileInputs.cache
+C:\Users\Ethan Diaz\source\repos\App250521\App250521\App250521\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Ethan Diaz\source\repos\App250521\App250521\App250521\obj\Debug\netstandard2.0\App250521.dll
+C:\Users\Ethan Diaz\source\repos\App250521\App250521\App250521\obj\Debug\netstandard2.0\ref\App250521.dll
+C:\Users\Ethan Diaz\source\repos\App250521\App250521\App250521\obj\Debug\netstandard2.0\App250521.pdb
